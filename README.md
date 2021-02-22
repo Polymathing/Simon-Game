@@ -1,7 +1,9 @@
 # Simon-Game
 
 Play the Simon Game right now, [CLICK HERE](https://polymathing.github.io/Simon-Game/).
-Here is another simple, however interesting front-end web game! 
+
+
+Another simple, however interesting front-end web game! 
 
 • Press any key to start the game. It will trigger the game mechanism that beeps one of the four colored boxes on the screen. 
 
