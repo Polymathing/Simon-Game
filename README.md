@@ -18,5 +18,9 @@ Another simple, however interesting front-end web game!
 
 Have fun! ☕
 
+_PS:_
+
+_I understand that jQuery is not trending anymore, but I wanted to practice anyways._ 
 
 ![](https://github.com/Polymathing/Maicon_Data_Science_Portfolio/blob/main/images/Simon-Game2.png?raw=true)
+
