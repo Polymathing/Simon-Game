@@ -11,7 +11,7 @@ Here is another simple, however interesting front-end web game!
 
 • How can I play? 
 
-  You can either download the files and open index.html with in your browser, or just []CLICK HERE(https://polymathing.github.io/Simon-Game/) to play right now. 
+  You can either download the files and open index.html with in your browser, or just [CLICK HERE](https://polymathing.github.io/Simon-Game/) to play right now. 
 
 Have fun!
 
