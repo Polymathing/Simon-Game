@@ -1,6 +1,6 @@
 # Simon-Game
 
-Play the Simon Game right now, [CLICK HERE](https://polymathing.github.io/Simon-Game/). 
+Play the Simon Game right now, [CLICK HERE](https://polymathing.github.io/Simon-Game/){:target="_blank" rel="noopener"}. 
 
 Here is another simple, however interesting front-end web game! 
 
